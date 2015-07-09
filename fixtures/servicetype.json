@@ -1,0 +1,16 @@
+[
+    {
+        "model": "ServiceType",
+        "data": {
+            "name": "prosper",
+            "display_name": "Prosper"
+        }
+    },
+    {
+        "model": "ServiceType",
+        "data": {
+            "name": "lending_club",
+            "display_name": "Lending Club"
+        }
+    }
+]
